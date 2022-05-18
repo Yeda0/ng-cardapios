@@ -1,0 +1,21 @@
+
+.header {
+    background-color:var(--cor-primaria);
+    height: 150px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+
+
+    h1{
+        font-size: 1.6rem;
+        font-weight: bold;
+        color: white;
+        text-transform: uppercase;
+        
+        
+    }
+
+    
+}
