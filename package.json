@@ -1,6 +1,7 @@
 {
   "name": "ng-cardapioss",
   "version": "0.0.0",
+  "author": "Lucas Gonçalves",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
