@@ -8,6 +8,8 @@ import { CardapioComponent } from './cardapio/cardapio.component';
 import { ListaCardapioComponent } from './lista-cardapio/lista-cardapio.component';
 import { HomeComponent } from './pages/home/home.component';
 import { TitleComponent } from './title/title.component';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -18,10 +20,13 @@ import { TitleComponent } from './title/title.component';
     ListaCardapioComponent,
     HomeComponent,
     TitleComponent,
+    
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

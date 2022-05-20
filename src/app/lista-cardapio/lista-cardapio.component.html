@@ -1,5 +1,7 @@
 <app-title titleProp="Destaques"></app-title>
-<app-cardapio></app-cardapio>
-<app-cardapio></app-cardapio>
-<app-cardapio></app-cardapio>
-<app-cardapio></app-cardapio>
+<div class="container-card">
+  <li *ngFor="let item of cardapios" >
+    <card-menu [data]=item> </card-menu>
+  </li>
+</div>
+
