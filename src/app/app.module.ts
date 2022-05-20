@@ -10,6 +10,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { TitleComponent } from './title/title.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { NovidadesComponent } from './novidades/novidades.component';
+import { NovidadesListComponent } from './novidades-list/novidades-list.component';
 
 
 @NgModule({
@@ -20,6 +22,8 @@ import { FormsModule } from '@angular/forms';
     ListaCardapioComponent,
     HomeComponent,
     TitleComponent,
+    NovidadesComponent,
+    NovidadesListComponent,
     
   ],
   imports: [

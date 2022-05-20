@@ -22,7 +22,7 @@
             "id" : 3,
             "image" : "http://www.thewrestaurante.com.br/controle/uploads/imagens/quemsomos/quemsomos_15270715201601132882962d54933458e2fa4530d0fdf64f069e032.jpg",
             "title" : "The W restaurante",
-            "adress" : "Av. João Maurício, 451 - Manaíra",
+            "adress" : "Avenida. João Maurício, 451 - Manaíra",
             "city" : "João Pessoa - PB",
             "phone" : "(83) 3185-8881"
         },
@@ -31,7 +31,7 @@
             "id" : 4,
             "image" : "https://holandasprime.com.br/wp-content/uploads/2018/02/DSC_9217.jpg",
             "title" : "Johnny Rockets",
-            "adress" : "Av. Antônio Lira, 536 - Tambaú",
+            "adress" : "Avenida. Antônio Lira, 536 - Tambaú",
             "city" : "João Pessoa - PB",
             "phone" : "(83) 3185-8881"
         }
@@ -50,7 +50,7 @@
             "id" : 2,
             "image" : "https://media-cdn.tripadvisor.com/media/photo-s/1b/e2/a4/df/unidade-joao-pessoa.jpg",
             "title" : "Mangai",
-            "adress" : " Av. Gen. Edson Ramalho, 696",
+            "adress" : " Avenida. General. Edson Ramalho, 696",
             "city" : "João Pessoa - PB",
             "phone" : "(83) 3226-1615"
         },

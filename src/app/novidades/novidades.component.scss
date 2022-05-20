@@ -1,0 +1,42 @@
+.novidades {
+    display: inline-block;
+    box-shadow: 0 5px 12px #e0e0e0;
+    width: 250px;
+    transition: all .5s;
+
+    &:hover {
+        cursor: pointer;
+        transform: scale(1.02);
+    }
+    img {
+        width: 100%;
+        height: 140px;
+        object-fit: cover;
+    }
+
+    .cardapio-info {
+        background-color: #fff;
+       padding: 10px;
+
+       h5 {
+           font-weight: 700;
+           text-transform: uppercase;
+           margin-bottom: 10px;
+       }
+
+       p {
+           font-weight: 300;
+
+           &.cidade {
+               color: #6D6D6D;
+               font-size: 14px;
+           }
+
+           &.telefone {
+               margin-top: 15px;
+               color: var(--cor-primaria);
+               font-weight: 700;
+            }
+       }
+    }
+}
